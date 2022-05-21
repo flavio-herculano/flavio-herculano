@@ -1,7 +1,7 @@
 ## Olá, eu sou o Flávio!👋
 
 - 📚 Estou estudando Programação Web!
-- 🚴‍♀️ A vida é como pedalar uma bicicleta. Você só cai se parar de pedalar!
+- "A vida é como pedalar uma bicicleta. Você só cai se parar de pedalar!"🚴‍
 
 <div align="center">
 <a href="https://github.com/flavio-herculano">
