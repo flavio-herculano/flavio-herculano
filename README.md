@@ -1,6 +1,6 @@
 ## Olá, eu sou o Flávio!👋
 
-- 📚 Estou estudando Front-End!
+- 📚 Estou estudando Programação Web!
 - 🚴‍♀️ A vida é como pedalar uma bicicleta. Você só cai se parar de pedalar!
 
 <div align="center">
