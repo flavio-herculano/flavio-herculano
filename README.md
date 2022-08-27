@@ -4,8 +4,6 @@
 - "A vida é como pedalar uma bicicleta. Você só cai se parar de pedalar!"🚴‍
 
 <div align="center">
-<a href="https://github.com/flavio-herculano">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=flavio-herculano&show_icons=true&theme=synthwave&include_all_commits=true&   count_private=true"/>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-herculano&layout=compact&theme=synthwave">
 </div>
 <div style="display: inline_block"><br>
