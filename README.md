@@ -2,10 +2,9 @@
 
 - 📚 Estou estudando Programação Web!
 - "A vida é como pedalar uma bicicleta. Você só cai se parar de pedalar!"🚴‍
-
-<div align="center">
+<br/>
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-herculano&layout=compact&theme=synthwave">
-</div>
+
 <div style="display: inline_block"><br>
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
