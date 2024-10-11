@@ -1,6 +1,6 @@
 ## Olá, eu sou o Flávio!👋
 
-- 📚 Atualmente tenho foco no Desenvolvimento Back-end com o C#, mas possuo experiência como Desenvolvedor Front-end Utilizando Next, React e Node.
+- 📚 Atualmente tenho foco no Desenvolvimento Back-end com o C#, mas possuo experiência com Python, Next.js, React.js, Node.js e Prisma ORM.
 - "A vida é como pedalar uma bicicleta. Você só cai se parar de pedalar!"🚴‍
 <br/>
 <div> 
