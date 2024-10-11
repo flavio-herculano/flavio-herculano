@@ -1,6 +1,6 @@
 ## Olá, eu sou o Flávio!👋
 
-- 📚 Atualmente estou focado no Back-end com C#, também possuo experiência com Python, Next.js, React.js, Node.js e Prisma ORM.
+- 📚 Em busca de evolução pessoal e profissional, no momento focado no Back-end com C#, também possuo experiência com Python, Next.js, React.js, Node.js e Prisma ORM.
 - 👾 Aqui você encontrara minhas soluções e projetos, espero que curta!
 <br/>
 <div> 
