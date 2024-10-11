@@ -1,6 +1,7 @@
 ## Olá, eu sou o Flávio!👋
 
-- 📚 Atualmente estou focado no Desenvolvimento Back-end em C#, mas possuo experiência com Python, Next.js, React.js, Node.js e Prisma ORM.
+- 📚 Atualmente estou focado no Back-end com C#, também possuo experiência com Python, Next.js, React.js, Node.js e Prisma ORM.
+- 👾 Aqui você encontrara minhas soluções e projetos, espero que curta!
 <br/>
 <div> 
 <a href = "mailto:flavio.hercullano@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
