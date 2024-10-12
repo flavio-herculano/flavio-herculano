@@ -1,6 +1,6 @@
 ## Hello, I'm Flávio!👋
 
-- 📚 Looking for personal and professional evolution, currently focused on Back-end with C#, I also have experience with Python, Next.js, React.js, Node.js and Prisma ORM.
+- 📚 Currently looking for personal and professional evolution, focused on Back-end with C#, I also have experience with Python, Next.js, React.js, Node.js and Prisma ORM.
 - 👾 Here you will find my solutions and projects, I hope you enjoy them!
 <br/>
 
